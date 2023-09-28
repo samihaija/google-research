@@ -102,9 +102,8 @@ Examples for each component are implemented in a file associated with that compo
 
 
 ## Contact us
-Most authors of this paper are co-owners of TF-GNN, and we are committed to maintaining the UGSL library and ensuring its compatibility with future versions of TF-GNN.
 
-For questions or comments about the implementation and UGSL, please contact baharef@google.com. For other questions related to TF-GNN, please contact dzelle@google.com. 
+REMOVED FOR ANONYMIZATION
 
 ## Disclaimer
 
